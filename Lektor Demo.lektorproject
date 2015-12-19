@@ -1,0 +1,5 @@
+[project]
+name = Lektor Demo
+
+[servers.ghpages]
+target = ghpages+https://jonny-doe/lektor-demo
